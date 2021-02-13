@@ -1,4 +1,4 @@
-#Project: Parametric study of elastic and inelastic buckling of cellular beams 
+#Project: Parametric study of the elastic and inelastic buckling of cellular beams 
 #Python script for allowing the parameterisation of cellular steel beams.
 #Paper ref: https://doi.org/10.1016/j.tws.2020.106955
 #: MSc(Eng) Thesis: https://osf.io/fhzjv/
