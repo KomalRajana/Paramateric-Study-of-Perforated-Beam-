@@ -1,4 +1,4 @@
-#Project: Cellular Steel Beam
+#Project: Perforated Steel Beam: 
 #Python script for allowing the parameterisation of cellular steel beams.
 #Paper ref: https://doi.org/10.1016/j.tws.2020.106955
 #MSc(Eng) Thesis: https://osf.io/fhzjv/
