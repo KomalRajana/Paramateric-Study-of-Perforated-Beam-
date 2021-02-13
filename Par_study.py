@@ -70,6 +70,6 @@ BucklingStudy.gather(results='lpf', variable='LPF', step=2, inc=LAST)
 BucklingStudy.report(FILE,results=('elastic-load'),par=('TF','TW'), truncation=OFF, file='output-E.psr')
 BucklingStudy.report(FILE,results=('lpf'),par=('TF','TW','GI','LI','FY','FU','FS'),truncation=OFF,file='output-InE.psr')
 
-#The analyses were then submitted via the ABAQUS command prompt by recalling the Python script (.psf). as “ABAQUS SCRIPT=NLB1.psf”.
+#The analysis is submitted via the ABAQUS command prompt by recalling the Python script. as “ABAQUS SCRIPT=NLB1.psf”.
 
 
