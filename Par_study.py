@@ -3,7 +3,7 @@
 #Paper ref: https://doi.org/10.1016/j.tws.2020.106955
 #: MSc(Eng) Thesis: https://osf.io/fhzjv/
 
-#The ABAQUS input file was parameterised and submitted to the solver with seven variables: the thickness of the flange (TF), web (TW), global (GI) and local (LI) geometrical imperfection, steel yield strength (FY), ultimate strength (FU), and final strain of the steel (FS).  The command below was inserted at the beginning of the input file to initiate the parametric study:
+#The ABAQUS input file was parameterised and submitted to the solver with seven variables: the thickness of the flange (TF), web (TW), global (GI) and local (LI) geometrical imperfection, steel yield strength (FY), ultimate strength (FU), and final strain of the steel (FS).  The command below was inserted at the beginning of the input file to initiate the parametric study
 
 *PARAMETER
 TF = <1.0>
