@@ -1,7 +1,7 @@
 #Project: Cellular Steel Beam
 #Python script for allowing the parameterisation of cellular steel beams.
 #Paper ref: https://doi.org/10.1016/j.tws.2020.106955
-#: MSc(Eng) Thesis: https://osf.io/fhzjv/
+#MSc(Eng) Thesis: https://osf.io/fhzjv/
 
 ##The parameterized variables are: the thickness of the flange (TF), web (TW), global (GI) and local (LI) geometrical imperfection, steel yield strength (FY), ultimate strength (FU) and final strain of the steel (FS).  
 
